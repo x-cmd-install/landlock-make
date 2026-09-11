@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:10:44Z
+  collectedAt: 2026-09-11T04:53:22Z
 timeline:
   created: 2022-08-07
   lastCommit: 2022-11-02
@@ -91,7 +91,7 @@ total:
   commit: 13
 ---
 path: /home/runner/.x-repo/github.com/jart/landlock-make
-collectedAt: 2026-09-11T00:10:49Z
+collectedAt: 2026-09-11T04:53:26Z
 loc:
   CHeader:
     code: 165364
